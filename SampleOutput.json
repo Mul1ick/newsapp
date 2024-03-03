@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US says falling trade with China could be positive",
+            "description": "US Trade Representative Katherine Tai says steep drop in trade with China \"isn't necessarily negative\".",
+            "url": "https://www.bbc.co.uk/news/business-68441427",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1C3C/production/_132782270_tai-gettyimages-1708264083.jpg",
+            "publishedAt": "2024-03-01T15:07:24.8372739Z",
+            "content": "The steep drop in trade with China could be a positive development, the United States' top trade official has told the BBC.\r\nKatherine Tai said it \"isn't necessarily negative. It could be a positive … [+4920 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Moroccan IS militants sentenced to death in Somalia",
+            "description": "The men will be executed by a firing squad if their appeal against the sentence fails.",
+            "url": "https://www.bbc.co.uk/news/world-africa-68444127",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/847E/production/_132781933_6b3656d0-d6fc-11ee-9a5b-e35447f6c53b.jpg",
+            "publishedAt": "2024-03-01T14:52:20.0332775Z",
+            "content": "A military court in Somalia has sentenced six Islamic State fighters from Morocco to death.\r\nThe men will be executed by a firing squad if their appeal, which they have one month to file, is unsucces… [+1562 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Alec Baldwin waved gun around on Rust film set before fatal shooting, court hears",
+            "description": "A court is shown footage of the actor on the set of Rust before cinematographer Halyna Hutchins died.",
+            "url": "https://www.bbc.co.uk/news/entertainment-arts-68445123",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12DF6/production/_129420377_gettyimages-1239732527.jpg",
+            "publishedAt": "2024-03-01T12:22:20.7581865Z",
+            "content": "Actor Alec Baldwin waved a gun around on the film set where a cinematographer was fatally shot, a court has heard.\r\nIn footage shown at the trial of the film's armourer Hannah Gutierrez-Reed, Mr Bald… [+2385 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Vietnam: Leaked Communist Party document warns of 'hostile forces'",
+            "description": "The Communist Party document reveals leaders' fear of losing control, says the BBC's Jonathan Head.",
+            "url": "https://www.bbc.co.uk/news/world-asia-68443392",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F92B/production/_132778736_gettyimages-1842276043.jpg",
+            "publishedAt": "2024-03-01T12:07:15.7270008Z",
+            "content": "If countries can be said to go in and out of fashion, then Vietnam is certainly having its moment in the spotlight.\r\nOnce better known for sitting quietly in the strategic shadows, its leaders almost… [+7419 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Katie Price to lose 40% of OnlyFans income after bankruptcy",
+            "description": "The model has been ordered to pay 40% of her income from the site after failing to repay her debts.",
+            "url": "https://www.bbc.co.uk/news/entertainment-arts-68445076",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9382/production/_120726773_gettyimages-1339379538.jpg",
+            "publishedAt": "2024-03-01T11:22:14.7264177Z",
+            "content": "Katie Price must give up almost half of her monthly income from adult entertainment website OnlyFans to repay her debts, a judge has ruled.\r\nThe High Court court heard that the former model had previ… [+1972 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Israel-Gaza war: UN chief urges probe into deadly aid convoy incident",
+            "description": "At least 117 people were killed on Thursday as crowds gathered round aid lorries in Gaza City.",
+            "url": "https://www.bbc.co.uk/news/world-middle-east-68443883",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2933/production/_132774501_mediaitem132774494.jpg",
+            "publishedAt": "2024-03-01T10:37:19.3216002Z",
+            "content": "The head of the UN has called for an independent investigation into the deaths of more than 100 Palestinians during an aid delivery in Gaza. \r\nAt least 117 people were killed and more than760 injured… [+4272 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "More than a billion people obese worldwide, research suggests",
+            "description": "Researchers say there is an urgent need to change how the condition is tackled as it rises worldwide.",
+            "url": "https://www.bbc.co.uk/news/health-68436642",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CC2B/production/_132776225_child_eating_fry_getty.jpg",
+            "publishedAt": "2024-03-01T10:07:13.4295253Z",
+            "content": "More than a billion people are living with obesity around the world, global estimates published in The Lancet show.\r\nThis includes about 880 million adults and 159 million children, according to 2022… [+3328 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Anant Ambani: World's rich in India for tycoon pre-wedding gala",
+            "description": "Mark Zuckerberg and Rihanna are among guests at a pre-wedding party for billionaire Mukesh Ambani's son.",
+            "url": "https://www.bbc.co.uk/news/world-asia-india-68443536",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CEFB/production/_132778925_gettyimages-1250221913-594x594.jpg",
+            "publishedAt": "2024-03-01T06:37:21.2273285Z",
+            "content": "Some of the world's most influential people have arrived in India's Gujarat state to attend a wedding party thrown by Asia's richest man.\r\nMark Zuckerberg, Rihanna and Bill Gates are among the guests… [+2986 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Former Canadian Prime Minister Brian Mulroney dies at 84",
+            "description": "Brian Mulroney steered Canada through several tumultuous reforms in the late 80s and early 90s.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-68443314",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BA47/production/_132778674_gettyimages-515240866.jpg",
+            "publishedAt": "2024-03-01T02:52:15.2275808Z",
+            "content": "Former Canadian Prime Minister Brian Mulroney, who led his country from 1984 to 1993, has died at the age of 84.\r\nThe conservative leader, the 18th prime minister in Canada's history, passed away \"pe… [+4004 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Poison seller tied to suicide forum tracked down by BBC",
+            "description": "Ukrainian Leonid Zakutenko sells a type of chemical online thought to be linked to at least 130 UK deaths.",
+            "url": "https://www.bbc.co.uk/news/uk-68347415",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D139/production/_132716535_zakutenko-3.jpg",
+            "publishedAt": "2024-03-01T01:37:17.3990277Z",
+            "content": "Media caption, Watch: BBC doorsteps Leonid Zakutenko\r\nA Ukrainian man selling a poison thought to be linked to at least 130 UK deaths has been identified by the BBC.\r\nLeonid Zakutenko advertised his … [+5923 chars]"
+        }
+    ]
+}
